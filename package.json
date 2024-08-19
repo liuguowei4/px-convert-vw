@@ -1,0 +1,18 @@
+{
+  "name": "replace-px",
+  "version": "1.0.0",
+  "description": "将px根据宽度数值替换为vw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "config": {
+    "path": "example.css",
+    "replace": "vw",
+    "divisor": "1920"
+  },
+  "keywords": [],
+  "author": "GuoWeiLiu",
+  "license": "ISC"
+}
