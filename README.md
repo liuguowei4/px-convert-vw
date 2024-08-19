@@ -5,6 +5,6 @@
 ### 单位调整
 如果有单位方面的调整，比如转换vw要转换%，可以在 package.json 文件中 config 下的 replace 变量调整
 ### 计算调整
-如果有单位方面的调整，比如屏幕是1366，可以在 package.json 文件中 config 下的 divisor 变量调整
+如果有计算方面的调整，比如屏幕是1366，可以在 package.json 文件中 config 下的 divisor 变量调整
 ### 运行代码
 <code>node index.py</code>
